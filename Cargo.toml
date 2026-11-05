@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_photo"
+version = "0.1.0"
+edition = "2021"
+description = "Photo editing integration for SigmaOS — RAW processing, color grading, non-destructive edits"
+
+[lib]
+name = "sigmaos_craft_photo"
+path = "src/lib.rs"
