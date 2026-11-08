@@ -2,7 +2,8 @@
 name = "sigmaos_craft_photo"
 version = "0.1.0"
 edition = "2021"
-description = "Photo editing integration for SigmaOS — RAW processing, color grading, non-destructive edits"
+license = "MIT"
+description = "SigmaOS craft-photo component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_craft_photo"
