@@ -3,7 +3,7 @@ name = "SigmaOS-craft-photo"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Photo editing integration for SigmaOS — RAW processing, color grading, non-destructive edits"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
