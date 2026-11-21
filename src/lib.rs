@@ -3,6 +3,9 @@
 //! Real implementation: images, metadata, filters, edits, layers, and validation.
 //! Replaces the 104-line CLI placeholder.
 
+/// Photo editing and management module.
+pub mod sigmaphoto;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
