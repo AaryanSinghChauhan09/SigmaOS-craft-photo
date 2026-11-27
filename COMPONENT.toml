@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-craft-photo"
+version = "0.1.0"
+category = "craft"
+description = "Craft raster photo retouching studio for SigmaOS"
